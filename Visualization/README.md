@@ -2,8 +2,6 @@
 
 This folder contains Power BI visualizations designed to analyze customer retention through cohort analysis. The goal is to track how many customers from a specific first-order month (cohort) make repeat purchases in subsequent months.
 
-These visuals directly support Task 5 of the Alt Mobility Data Analyst Assignment.
-
 ---
 
 ## Matrix Heatmap
